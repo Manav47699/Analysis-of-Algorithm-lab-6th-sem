@@ -73,3 +73,28 @@ int main() {
     knapsack(num, weight, profit, capacity);
     return 0;
 }
+
+
+
+// output:
+
+
+// Enter the no. of objects:- 6
+
+// Enter the wts and profits of each object:- 12
+// 34
+// 54
+// 23
+// 12
+// 23
+// 45
+// 45
+// 56
+// 67
+// 23
+// 56
+
+// Enter the capacity of knapsack:- 60
+
+// The result vector is:- 1.000000 1.000000        1.000000        0.232143        0.000000        0.000000
+// Maximum profit is:- 128.553574

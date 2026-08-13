@@ -42,9 +42,22 @@ int main() {
     return 0;
 }
 
-// Input:
-// Enter number of equations: 3
-// Enter moduli: 3 4 5
-// Enter remainders: 2 3 1
-// Output
-// The solution is x= 11
+
+// output:
+
+// Enter number of equations: 6
+// Enter moduli (n1 n2 ... nn):
+// 12
+// 12
+// 34
+// 56
+// 23
+// 45
+// Enter remainders (r1 r2 ... rn):
+// 54
+// 23
+// 12
+// 34
+// 12
+// 43
+// The solution is x = -166168192

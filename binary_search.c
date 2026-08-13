@@ -37,3 +37,20 @@ int main()
 
   return 0;
 }
+
+
+
+// Output:
+
+// Enter number of elements
+// 6
+// Enter 6 integers
+// 1
+// 3
+// 4
+// 2
+// 67
+// 87
+// Enter value to find
+// 5
+// Not found! 5 isn't present in the list.

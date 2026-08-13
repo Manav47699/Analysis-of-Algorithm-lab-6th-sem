@@ -1,4 +1,4 @@
-// 3) program for selection sort
+// 3) program for selection sort   (error xa)
 // Selection Sort
 
 #include <stdio.h>

@@ -59,3 +59,16 @@ int main() {
 
     return 0;
 }
+
+
+
+// output:
+
+// Enter number of elements: 4 
+// Enter elements:
+// 12
+// 3
+// 12
+// 4
+// Minimum element = 3
+// Maximum element = 12

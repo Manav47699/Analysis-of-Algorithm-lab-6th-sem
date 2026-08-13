@@ -29,3 +29,18 @@ int main()
     }
     return 0;
 }
+
+// output:
+
+//  Enter the max no.of Elements to Sort: 
+// 7
+
+//  Enter the Elements : 
+// 3
+// 5
+// 23
+// 34
+// 12
+// 7
+// 45
+// 3       5       7       12      23      34      45      

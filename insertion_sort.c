@@ -31,3 +31,22 @@ int main(void)
     }
     return 0;
 }
+
+
+
+// output:
+
+// Enter number of elements
+// 5 
+// Enter 5 integers
+// 3
+// 5
+// 1
+// 2
+// 3
+// Sorted list in ascending order:
+// 1
+// 2
+// 3
+// 3
+// 5

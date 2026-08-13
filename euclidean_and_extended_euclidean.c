@@ -46,9 +46,11 @@ int main() {
 }
 
 
-// Output 
-// Enter two numbers: 30 20
-// GCD using Euclidean Algorithm: 10
-// GCD using Extended Euclidean Algorithm: 10
-// Coefficients x and y: 1 -1
-// Verification: 30*(1) + 20*(-1) = 10
+// output:
+
+// Enter two numbers: 3
+// 4
+// GCD using Euclidean Algorithm: 1
+// GCD using Extended Euclidean Algorithm: 1
+// Coefficients x and y: -1 1
+// Verification: 3*(-1) + 4*(1) = 1

@@ -72,16 +72,22 @@ int main() {
 }
 
 
-// Input:
-// Enter number of jobs: 5
+// output:
+
+// Enter number of jobs: 4
 // Enter Job ID, Deadline, Profit for each job:
-// 1 2 100
-// 2 1 19
-// 3 2 27
-// 4 1 25
-// 5 3 15
+// 2
+// 4
+// 5
+// 6
+// 12
+// 34
+// 45
+// 5
+// 12
+// 43
+// 53
+// 4
 
-// Output
-
-// Selected Job Sequence: J3 J1 J5
-// Total Profit = 142
+// Selected Job Sequence: J2 J45 J43 
+// Total Profit = 21

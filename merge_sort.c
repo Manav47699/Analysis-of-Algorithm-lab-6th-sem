@@ -1,4 +1,4 @@
-// 6)Program for Merge sort
+// 6)Program for Merge sort  (has error)
 
 #include <stdio.h>
 void mergeSort(int a[], int p, int r)

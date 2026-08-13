@@ -78,3 +78,10 @@ int main() {
   printf("Sorted array in ascending order: \n");
   printArray(data, n);
 }
+
+
+// output:
+// Unsorted Array
+// 8  7  2  1  0  9  6  
+// Sorted array in ascending order: 
+// 0  1  2  6  7  8  9 

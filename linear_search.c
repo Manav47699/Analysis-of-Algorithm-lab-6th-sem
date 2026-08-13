@@ -25,3 +25,15 @@ printf("Element not found");
 
 return 0;
 }
+
+
+// output:
+
+// How many elements?5
+// Enter array elements:n12
+// 23
+// 2
+// 45
+// 6
+// nEnter element to search:2
+// Element found at index 2
